@@ -1,6 +1,6 @@
 {
-  "name": "generate-commit-message-sm",
-  "version": "1.0.0",
+  "name": "script-commit",
+  "version": "1.0.1",
   "description": "A tool that leverages machine learning techniques to understand the content, context, and purpose of each change ina repo and uses this information to generate a concise and descriptive commit message that accurately reflects the changes made.",
   "main": "dist/index.js",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stephanmingoes/generate-commit-message.git"
+    "url": "git+https://github.com/stephanmingoes/script-commit.git"
   },
   "author": "Stephan Mingoes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stephanmingoes/generate-commit-message/issues"
+    "url": "https://github.com/stephanmingoes/script-commit/issues"
   },
-  "homepage": "https://github.com/stephanmingoes/generate-commit-message#readme",
+  "homepage": "https://github.com/stephanmingoes/script-commit#readme",
   "devDependencies": {
     "@types/node": "^18.14.0",
     "typescript": "^4.9.5"
