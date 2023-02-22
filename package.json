@@ -1,5 +1,5 @@
 {
-  "name": "generate-commit-message",
+  "name": "@stephanmingoes/generate-commit-message",
   "version": "1.0.0",
   "description": "A tool that leverages machine learning techniques to understand the content, context, and purpose of each change ina repo and uses this information to generate a concise and descriptive commit message that accurately reflects the changes made.",
   "main": "dist/index.js",
