@@ -1,6 +1,6 @@
 {
   "name": "script-commit",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "A tool that leverages machine learning techniques to understand the content, context, and purpose of each change ina repo and uses this information to generate a concise and descriptive commit message that accurately reflects the changes made.",
   "main": "dist/index.js",
   "scripts": {
